@@ -11,9 +11,9 @@ write a summary of the analysis for Jennifer to submit to the SellBy stakeholder
 https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Sports_v1_00.tsv.gz
 
 ### Deliverables
-Deliverable 1: Perform ETL on Amazon Product Reviews
-Deliverable 2: Determine Bias of Vine Reviews
-Deliverable 3: A Written Report on the Analysis
+- Deliverable 1: Perform ETL on Amazon Product Reviews
+- Deliverable 2: Determine Bias of Vine Reviews
+- Deliverable 3: A Written Report on the Analysis
 
 ### Vine_Review_Analysis
 Write a report that summarizes the analysis you performed in Deliverable 2
